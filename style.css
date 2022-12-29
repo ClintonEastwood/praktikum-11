@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@300&family=Roboto+Mono:ital,wght@1,200&display=swap');
+
+* {
+    text-align: left;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.submit {
+    border-radius: 10px;
+    background-color: green;
+}
